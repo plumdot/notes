@@ -1,0 +1,47 @@
+/////////////////
+//// notes on vim
+/////////////////
+
+// Moving Around
+h / j / k / l - left / up / right / down
+$ - Move to end of line
+0 - Move to beginning of line
+
+x - Delete under cursor
+:wq - Save & Quit
+dd - Delete & Copy current line to buffer
+p - Put / paste after
+P - Put / past after
+:help <command> - Look up <command> in help
+a - Insert after the cursor
+o - Insert new line after the current one
+O - Insert new line before the current one
+cw - Replace from the cursor to the end of the word
+^ - Go to first non - blank char of the line
+/foo - Search current document for 'foo'
+
+yy - Copy current line 
+
+u - Undo
+CTRL r - Redo
+
+:e <path/to/file> - Open file in current tab
+:saveas <path/to/file> - Save as 
+:bn - Show next file
+gt - Switch tab
+
+H - Mmove to top of the page
+G - Move to end of file
+
+cw - Insert & Delete from cursor to end of word
+c2b - d / i back two words
+c$ - d / i to end of line
+c0 - d / i to beginning of line
+
+cc - dd + i
+D - d$
+
+yw - Yank word
+y$ - yy
+4yy - Yank 4 lines
+
