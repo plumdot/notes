@@ -9,8 +9,8 @@
 
 #### IIFE (Immediately Invoked Function Expressions)
 
-#### Closuers
+#### Closures
 
 #### call(), apply(), bind()
 
-#### Funcitonal Programming
+#### Functional Programming
