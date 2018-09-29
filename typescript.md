@@ -30,3 +30,13 @@ Use if:
  * If project is growing larger and larger
  * You want code to be self-documenting
  * You have band-width to train others / JRs
+
+---
+
+:closed_book: Type refinement - be sure to enforce certain data exists
+
+```
+if (data) {
+  // then do stuff
+}
+```
