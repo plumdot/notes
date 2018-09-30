@@ -6,6 +6,22 @@
 
 ---
 
+### Helpful resources
+
+[Install Racket](https://www.youtube.com/watch?v=-EFrmOa0bP0)
+
+[MIT/Scheme User Manual](https://www.gnu.org/software/mit-scheme/documentation/mit-scheme-user.pdf)
+
+---
+
+To run a file:
+```
+> racket file_to_run.rkt
+```
+
+---
+
+
 ## 1: Building Abstractions with Procedures
 
 ### 1.1: 
